@@ -1,4 +1,4 @@
-#Word Test Game
+# Word Test Game
 This is a simple word test game written in Python. The game reads English words from an Excel file, asks the user for their meanings, and keeps track of the user's score.
 
 ## Usage
