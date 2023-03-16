@@ -29,5 +29,3 @@ The game will continue until you have earned 20 points, at which point the progr
 Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure to follow the existing code style and include relevant tests for your changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
